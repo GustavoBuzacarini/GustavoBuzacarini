@@ -90,3 +90,11 @@ I'm a CS student and front-end developer based in Brazil, currently building my 
 ⭐ If you like any of my projects, feel free to leave a star!
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoBuzacarini/GustavoBuzacarini/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoBuzacarini/GustavoBuzacarini/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GustavoBuzacarini/GustavoBuzacarini/output/pacman-contribution-graph.svg">
+</picture>
+
+###
